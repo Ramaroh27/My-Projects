@@ -1,4 +1,4 @@
-# TITLE: School Funding Effects Data Science Project
+# TITTLE: School Funding Effects Data Science Project
 
 This project shows the relationship between federal/state funding in Tittle I schools and student test scores. This provides interesting and diverse 
 visualizations so that educators and people can explore the data trends. It also uses statistical evidence to interpret the data and define the 
@@ -18,7 +18,7 @@ correlation.
 2. How do the economically disadvantaged schools perfom on the SBA assement compared to the more advantages schools?
 3. To what extent does increasing the per student funding for economically disadvantaged students help them improve their SBA scores?
 
-## CONCLUSIONS: The analysis showed that average per - stuent funding was approximately $19,000 in both states. High - poverty schools recieved more 
+## CONCLUSION: The analysis showed that average per - stuent funding was approximately $19,000 in both states. High - poverty schools recieved more 
 funding than low - poverty ones. However, funding allocations were uneven across certain years, with some years allocating more than others. Nevertheless,
 a clear direct relationship was observed, with high - poverty schools consistently recieving more funding. Overall, this information showed that higher per
 student funding for economicaly disdvantaged students does imporve their SBA performance, although results may vary depending on how states allocate and
