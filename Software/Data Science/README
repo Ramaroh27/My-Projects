@@ -1,5 +1,33 @@
-This is a Data Science Project called "School Funding Effects". I created this project for a data science course I took over the summer of 2025
-and it is about why federal and state funding are crucial to school deistricts in Washijngton State. This project also uses python programming to
-clean datasets for producing reliable data and creates visual graphs to show various trends in critical relationships. These visuals include bar
-graphs and scatterplots, and how they relate school  district programs enrollment and test scores to poverty rates and per - stuident fundings. 
-Finally, hypothesis testing is also used to evaluate the reliability in sources, public datasets, and data relationships.
+# TITLE: School Funding Effects Data Science Project
+
+This project shows the relationship between federal/state funding in Tittle I schools and student test scores. This provides interesting and diverse 
+visualizations so that educators and people can explore the data trends. It also uses statistical evidence to interpret the data and define the 
+relationships between the two factors.
+
+Quoting Nelson Mandela "Education is the most powerful weapon to change the world", my goal in creating this project to inform people on how make
+better decisions that relate to funding. 
+
+## PROJECT OVERVIEW: Datasets for Washington and Ohio (2019 - 2024) states are cleaned and merged using Pandas. Visual data charts such as scatterplots 
+and bar graphs were used to clearly visualize the data. Statistical evidence is derived from the line of best fit in the scatterplot and Spearman's 
+correlation. 
+
+## TECHNOLOGIES USED: Data Analysis done using Python, Seaborn, Pandas, and matplotlib. Data from NERD$ Database - Edunomics Labs. 
+
+## RESEARCH QUESTIONS
+1. Do economically disadvantaged schools get more per pupil funding compared the economically advantaged schools?
+2. How do the economically disadvantaged schools perfom on the SBA assement compared to the more advantages schools?
+3. To what extent does increasing the per student funding for economically disadvantaged students help them improve their SBA scores?
+
+## CONCLUSIONS: The analysis showed that average per - stuent funding was approximately $19,000 in both states. High - poverty schools recieved more 
+funding than low - poverty ones. However, funding allocations were uneven across certain years, with some years allocating more than others. Nevertheless,
+a clear direct relationship was observed, with high - poverty schools consistently recieving more funding. Overall, this information showed that higher per
+student funding for economicaly disdvantaged students does imporve their SBA performance, although results may vary depending on how states allocate and
+utillize their funding.
+
+## USAGE: Open in GoogleCollab
+
+## FUTURE IMPROVEMENTS: Expanding the data information to include other states.
+
+## REFERENCES
+
+https://edunomicslab.org/nerds/
